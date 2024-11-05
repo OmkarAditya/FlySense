@@ -1,0 +1,1 @@
+/home/omki/catkin_ws1/devel/.private/mavros_msgs/share/roseus/ros/mavros_msgs/msg/NavControllerOutput.l

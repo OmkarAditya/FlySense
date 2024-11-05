@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target square[0m
+[ 33%] [32m[1mLinking CXX executable /home/omki/catkin_ws1/devel/.private/iq_gnc/lib/iq_gnc/gnc_example[0m
+[ 33%] [32m[1mLinking CXX executable /home/omki/catkin_ws1/devel/.private/iq_gnc/lib/iq_gnc/set_wp[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/square.dir/src/square.cpp.o[0m
+[ 66%] Built target set_wp
+[ 83%] Built target gnc_example
+[100%] [32m[1mLinking CXX executable /home/omki/catkin_ws1/devel/.private/iq_gnc/lib/iq_gnc/square[0m
+[100%] Built target square

@@ -1,0 +1,1 @@
+/home/omki/catkin_ws1/devel/.private/iq_gnc/share/iq_gnc/cmake/iq_gncConfig-version.cmake

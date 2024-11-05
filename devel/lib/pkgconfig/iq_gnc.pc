@@ -1,0 +1,1 @@
+/home/omki/catkin_ws1/devel/.private/iq_gnc/lib/pkgconfig/iq_gnc.pc

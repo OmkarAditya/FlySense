@@ -1,0 +1,1 @@
+/home/omki/catkin_ws1/devel/.private/mavros/lib/mavros/install_geographiclib_datasets.sh

@@ -1,0 +1,6 @@
+[ 50%] [32m[1mLinking CXX executable /home/omki/catkin_ws1/devel/.private/iq_gnc/lib/iq_gnc/square[0m
+[ 50%] [32m[1mLinking CXX executable /home/omki/catkin_ws1/devel/.private/iq_gnc/lib/iq_gnc/gnc_example[0m
+[ 50%] [32m[1mLinking CXX executable /home/omki/catkin_ws1/devel/.private/iq_gnc/lib/iq_gnc/set_wp[0m
+[100%] Built target set_wp
+[100%] Built target square
+[100%] Built target gnc_example

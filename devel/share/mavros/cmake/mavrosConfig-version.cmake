@@ -1,0 +1,1 @@
+/home/omki/catkin_ws1/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake
